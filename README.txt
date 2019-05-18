@@ -1,5 +1,7 @@
 Individual Project: Bike Sharing
 
+Author: Vanesa Lopez Garcia
+
 Project Description:
 
 This project is intended to rewrite the Bike Sharing analysis done in Python
@@ -45,6 +47,10 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes 
+
+Acknowledgments:
+
+I would like to thank my 'Advance Python' Professor, Juan Luis Cano, for his amazing way of teaching.
 
 
 
