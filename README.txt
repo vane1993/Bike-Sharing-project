@@ -1,6 +1,17 @@
-Individual Project: Bike Sharing
+# Individual Project: Bike Sharing
 
 Author: Vanesa Lopez Garcia
+
+Table of contents:
+
+- Data Summary
+- Feature Engineering: Part I
+- Missing Value Analysis
+- Exploratory Data Analysis
+- Outlier Analysis
+- Correlation Analysis
+- Feature Engineering: Part II
+- Algorithms
 
 Project Description:
 
@@ -9,6 +20,10 @@ for Statistical Programming to make it more performant and aligned with real
 world scenarios.
 This project has been created for the Advanced Python class during the Big
 Data Master at IE HST.
+
+Technologies:
+
+Python 3.6
 
 Contribution to the project:
 
@@ -47,6 +62,11 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes 
+
+Sources:
+
+- https://tomaugspurger.github.io/scalable-ml-01.html
+- https://jcrist.github.io/introducing-dask-searchcv.html
 
 Acknowledgments:
 
